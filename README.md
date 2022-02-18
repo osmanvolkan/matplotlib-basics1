@@ -1,2 +1,6 @@
 # matplotlib-basics
-visualisation paractice using pyton's matplotlib library. Basic commands+plot charts
+visualisation practice using pyton's matplotlib library. 
+
+
+
+Basic commands+plot charts
